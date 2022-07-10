@@ -1,7 +1,7 @@
 # About Me
 I am Junkei Okada（岡田 純京）.  
 I am in the 1st year of a Master's degree in information system engineering at Tokyo Denki University.  
-I am an affiliate of Visual Perception & Recognition Lab advised by Yuko Ozasa（小篠 裕子）.  
+I am an affiliate of Visual Perception & Recognition Lab advised by [Yuko Ozasa（小篠 裕子）](https://researchmap.jp/yuko.ozasa?lang=en).  
 **Links**:[CV(jp)](https://drive.google.com/file/d/1vBKuA_-Rul-dKcL9V8l3cK45i3a7BQ1h/view?usp=sharing)[Github](https://github.com/JO0606)
 [Wantedly](https://www.wantedly.com/id/junkei_okada)
 
