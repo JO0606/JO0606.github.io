@@ -13,7 +13,7 @@
 
 
 # Awards (Japanese)
-- ・	AIイノベーションアワード2022，AI企業賞，株式会社NTTPCコミュニケーションズ，2022
+- [AIイノベーションアワード2022，AI企業賞，株式会社NTTPCコミュニケーションズ，2022](https://www.nttpc.co.jp/press/2022/04/202204211500.html)
 
 # Publications
 ## International Conference
