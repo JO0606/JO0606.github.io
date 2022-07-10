@@ -8,22 +8,21 @@
 - Hyperspectral Imaging
 
 # Education
-- 2022.04-2024.03: M.S in Tokyo Denki University
+- 2022.04-2024.03 (): M.S in Tokyo Denki University
 - 2018.04-2022.03: B.S in Tokyo Denki University
 
 
-# Awards
-
+# Awards (Japanese)
+- ・	AIイノベーションアワード2022，AI企業賞，株式会社NTTPCコミュニケーションズ，2022
 
 # Publications
 ## International Conference
-
+1. <u>Junkei Okada</u>, Tomoya Kaichi, Yuko Ozasa, “Evaluation of Self-Attention Approach in Hyperspectral Single-Pixel Classification,’’ Proc. of IIEEJ International Conference on Image Electronics and Visual Computing (IEVC), 2021
 
 ## Domestic Conference (Japanese)
-
-
-
-## Others
-
+1. <u>岡田純京</u>，小篠裕子，“ハイパースペクトルデータを入力とした畳み込みニューラルネットワークが抽出した特徴の再構成，”第25回 画像の認識・理解シンポジウム（MIRU），2022
+1. <u>岡田純京</u>，西村仁志，小篠裕子，“ハイパースペクトルカメラによる物体追跡の問題点に関する分析，”情報処理学会全国大会，2022
 
 # SNS
+[Wantedly](https://www.wantedly.com/id/junkei_okada),
+[GitHub](https://github.com/JO0606)
