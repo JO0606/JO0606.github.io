@@ -1,5 +1,5 @@
 # About Me
-<img src="./自画像1.png" width="100px">  
+<img src="./自画像2.png" width="100px">  
 
 
 I am Junkei Okada（岡田 純京）.  
